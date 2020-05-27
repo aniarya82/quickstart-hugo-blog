@@ -1,0 +1,62 @@
+#production
+baseURL = "/blog/"
+#developement
+#baseURL = ""
+languageCode = "en-us"
+title = "Hiten Chowdhary"
+theme = "anatole"
+summarylength = 10
+enableEmoji = true
+
+# Enable Disqus
+#disqusShortname = ""
+
+# Google Analytics
+googleAnalytics = "UA-105708361-1"
+
+
+[params]
+title = "I'm Hiten Chowdhary"
+author = "Hiten Chowdhary"
+description = "Full Stack Engineer | Mathematician | Gamer"
+profilePicture = "images/aniarya.jpg"
+keywords = ""
+favicons = "favicons/"
+customCss = []
+
+## Social links
+[[params.socialIcons]]
+icon = "fa-linkedin"
+title = "Linkedin"
+url = "https://linkedin.com/in/hitenchowdhary/"
+
+[[params.socialIcons]]
+icon = "fa-github"
+title = "GitHub"
+url = "https://github.com/aniarya82/"
+
+[[params.socialIcons]]
+icon = "fa-instagram"
+title = "instagram"
+url = "https://www.instagram.com/hiten8080"
+
+[[params.socialIcons]]
+icon = "fa-envelope"
+title = "e-mail"
+url = "mailto:hiten.iitkgp@gmail.com"
+
+## Menu items
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/posts/"
