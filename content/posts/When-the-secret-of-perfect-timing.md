@@ -130,3 +130,112 @@ These landmarks help you find a anchor to the longitivity of life. Such anchor c
 1. Wait until your old enough, 25 - 30 average marring age
 2. Completed education
 3. Relationship matures
+
+## Chapter 4
+
+#### Reawaken your motivation during MIDPOINT slump
+
+1. Set interm goals
+2. Publically commit to these interm goals
+3. Stop your sentence midway through. (Zeigarink effect) _unfinished task_
+4. Don't break the chain (Seinfeild)
+5. Picture one person your work will help
+
+#### The Form-Storm-Perform method
+
+1. Form and storm phase: when team first comes together there exists a period of maximal harmony and minimal conflict
+2. Midpoint phase "uh-oh" effect
+3. Perform phase: motivated team work with minimal friction to acheive goals
+
+#### Combat a midlife slump
+
+1. Prioritize top goals (Buffett technique)
+
+- List to top 25 goals
+- circle top 5 among them
+- plan to acheive top5 goals
+
+2. Develop midcareer mentoring
+
+- helps recognize the U-shaped wave
+- strategize to deal with slump
+
+3. Mentally substract positive events
+
+- achievements, what leads to them
+- be happy about the chain of events
+
+4. Write yourself a few paragraphs of self compasion
+
+- identify momnets of disappointment
+- how it made you feel (examine it)
+
+5. Wait. Have Patience
+
+- Sometimes best course of action is inaction
+
+## Chapter 5
+
+" The creatures outside looked from pig to man and from man to pig and from pig to man again. But already it was impossible to say which is which"
+
+#### When to quit a job?
+
+1. Do you want to be in this job on your next work anniversary?
+2. Is your current job both demanding and in your control?
+3. Does your boss allow you to do your best work?
+4. Are you outside the three-to-five year salary bump window?
+5. Does your daily work align with your long-term goals?
+
+#### The workday
+
+- 2-3 minutes to write down what you accomplished since morning
+- layout your plan for the next day
+- thank you emails, be grateful
+
+#### The semester of school year
+
+- letter to 5-year elder yourself
+- student toasting to each other, celebrating little thing creates positive enviroment
+
+#### A vacation
+
+- very end of an experience seems to disproportionately affect our memory of it
+- plan a day out, other than your daily routine
+
+#### A purchase
+
+- Handing bangs with thank you
+- Applause on target of achivement
+
+## Chapter 6
+
+#### Coordinating and Synchronizing
+
+1. Sing in chorus
+2. Run together
+3. Rowing crew
+4. Dancing groups
+5. Yoga classes
+6. Flash mob
+7. Cook in tandem
+
+#### Ask questions periodically
+
+1. Do we have a clear boss
+2. Are fostering a sense of belonging enriches individual identity, deepens afiliation and allows everyone to sycronize to the tribe
+3. Are we activating the uplift-feeling good and doing good-that is necessary for group to succedd?
+
+#### Improv exercises
+
+1. Booosts your group timing skills
+2. Mirror, mirror : A partner mimics you expression and you do the same by switching roles
+3. Mind, Meld : A partner and you count to 3 and then utter a word randomly, like "banana" or "bicycle". Repeat this again with count of 3 and stop at the same word.
+4. Pass the clap : Form a circle look right make eye contact and clap at same time. Claping comes back from reverse direction
+5. Beastie boys rap
+
+#### Promote belonging in group
+
+1. Reply quickly to e-mail
+2. Tell stories about struggle
+3. Nuture self-organised group rituals
+4. Try a jigsaw classroom
